@@ -1,4 +1,3 @@
-```markdown
 # JSON export format
 
 This page describes Spine's JSON export format for skeleton and animation data. The [Spine Runtimes](https://esotericsoftware.com/spine-runtimes) load this data to display animations. Also, Spine can import data in this format, allowing interoperability with other tools. JSON export files can be found for [each example project](https://esotericsoftware.com/git/spine-runtimes/tree/examples) in the Spine Runtimes.
@@ -682,4 +681,3 @@ Example draworder animation JSON:
 
 - **time:** The time in seconds for the keyframe.
 - **offsets:** A list of slot names and numeric offsets, which are the number of draw order entries to shift the specified slot relative to its setup pose draw order index. If "offsets" is omitted, the keyframe will set the draw order to the setup pose draw order.
-```
