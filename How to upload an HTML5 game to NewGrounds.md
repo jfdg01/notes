@@ -7,4 +7,4 @@
     
     ![Untitled](https://i.imgur.com/1cHTJdR.png)
     
-3. Upload ZIP directly to NewGrounds: [https://www.newgrounds.com/projects/games/new](https://www.newgrounds.com/projects/games/new)
+3. Upload ZIP directly to NewGrounds: [https://www.newgrounds.com/projects/games/new](https://www.newgrounds.com/projects)
